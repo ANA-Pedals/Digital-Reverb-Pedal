@@ -1,1 +1,1 @@
-Used as a template for kicad pedals
+Digital Reverb Pedal
